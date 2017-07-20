@@ -1,0 +1,14 @@
+body {
+  background-image: url("rose.jpeg");
+  background-size: 2000px 1500px;
+background-repeat: no-repeat;
+background-position: top;
+color:white;
+font-size:30px;
+}
+#inputs {
+  background-color: red;
+  padding: 20px;
+  margin: 50px;
+  width: 250px;
+  }
